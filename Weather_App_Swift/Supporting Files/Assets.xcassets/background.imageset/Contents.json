@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "eric-cook-gyHEQ6_dvPw-unsplash.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "shawn-pang-Hgx1jpfYTqc-unsplash.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
